@@ -107,7 +107,6 @@ See [there](https://pkg.go.dev/github.com/FerretDB/FerretDB/build/version) for m
 - [Civo](https://www.civo.com/marketplace/FerretDB)
 - [Scaleway](https://www.scaleway.com/en/managed-document-database/)
 - [Tembo](https://tembo.io/docs/tembo-stacks/mongo-alternative)
-- [Vultr](https://www.vultr.com/products/managed-databases/ferretdb/)
 
 ## Documentation
 
